@@ -1,0 +1,20 @@
+{
+        "name": "weather-app-current-data",
+        "version": "1.0.0",
+        "description": "",
+        "scripts": {
+            "build": "echo \"No build specified\" && exit 1",
+            "test": "echo \"No test specified\" && exit 1",
+            "start": "node index.js"
+        },
+        "repository": {
+            "type": "git",
+            "url": "git+https://github.com/waqasahmed09/weather-app-current-data.git"
+        },
+        "author": "",
+        "license": "ISC",
+        "bugs": {
+            "url": "https://github.com/waqasahmed09/weather-app-current-data/issues"
+        },
+        "homepage": "https://github.com/waqasahmed09/weather-app-current-data#readme"
+    }
